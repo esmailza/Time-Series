@@ -6,5 +6,7 @@ You can download the data from [here](https://www.kaggle.com/datasets/neuromusic
 ![](img/trend.JPG)
 ![](img/tren-day-year.JPG)
 The Price Pattern in Western States of the USA:
+<div style="padding: 10px;">
 ![](img/west-price.JPG)
+</div>
 
